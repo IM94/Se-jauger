@@ -1,5 +1,28 @@
 # sejauger
 
+(pour se connecter: id=louis ; mdp=cherel)
+
+1) npm install
+
+> Select Manually Select Features
+> Ne changez rien (Babel + Linter/formatter)
+> ESLint + Standard
+> Lint on save
+
+
+2)
+ vue add vuetify
+
+> Select Default
+
+
+3) npm install axios --save
+ npm install --save vue-axios
+
+
+
+
+
 ## Project setup
 ```
 npm install
